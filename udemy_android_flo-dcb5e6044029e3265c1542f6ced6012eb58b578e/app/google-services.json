@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726740262195",
+    "project_id": "fir-crud-b5ed8",
+    "storage_bucket": "fir-crud-b5ed8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726740262195:android:23018705e2f9def5557246",
+        "android_client_info": {
+          "package_name": "com.example.flo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ9zkQNDM2OV7xvrKeOzRoy3WQQHCVEkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
